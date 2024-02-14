@@ -11,7 +11,7 @@ package pkg2024_itess_ti202_ci_hvei;
  * TI202 FJMP
  * 12 Febrero 2024
  * Aproximacion de areas usando sumas, prueba
- * @author Gateway
+ * ti23110049@itess.edu.mx
  */
 public class FuctionAproximation {
     private double xIni;
